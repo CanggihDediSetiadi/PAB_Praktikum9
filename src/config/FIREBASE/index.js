@@ -3,7 +3,7 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 import "firebase/compat/database";
 const firebaseConfig = {
-  apiKey: "AIzaSyBKbcCsr_v9IUorh1aWnPUOPQWzTHI5Ghk",
+  apiKey: "",
   authDomain: "projekfirebase-fb1e6.firebaseapp.com",
   databaseURL:
     "https://projekfirebase-fb1e6-default-rtdb.asia-southeast1.firebasedatabase.app",
